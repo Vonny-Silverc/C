@@ -1,0 +1,1 @@
+Реализация функции void swap(int *a, int *b).

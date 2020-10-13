@@ -1,0 +1,2 @@
+Функцию int linear_search(int arr[], int n, int arg), находит позицию первого вхождения arg в массиве arr, 
+если arg нет, то вернет -1.
